@@ -58,7 +58,7 @@
     "libsignal": "git+https://github.com/WhiskeySockets/libsignal-node.git",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
-    "@cacheable/node-cache": "^1.4.0",
+    "@cacheable/node-cache": "^1.5.8",
     "pino": "^9.6",
     "protobufjs": "^6.11.3",
     "uuid": "^10.0.0",
